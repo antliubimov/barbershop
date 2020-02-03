@@ -237,6 +237,11 @@ a {
   color: #aba9a7;
 }
 
+.catalog-columns {
+  display: flex;
+  justify-content: space-between;
+}
+
 .filter fieldset {
   border: none;
 }
@@ -331,6 +336,10 @@ a {
   background-color: #ffffff;
 }
 
+.product-photos {
+  width: 460px;
+}
+
 .product-photo-preview {
   list-style: none;
 }
@@ -353,6 +362,10 @@ a {
   text-align: center;
 
   background-color: #e5e5e5;
+}
+
+.product-info {
+  width: 390px;
 }
 
 .product-info h3 {
